@@ -1,2 +1,2 @@
 # test
-test rpos
+test repository for git command demonstration 
